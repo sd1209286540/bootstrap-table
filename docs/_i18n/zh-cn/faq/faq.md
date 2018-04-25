@@ -49,6 +49,7 @@ onClickRow: function (row, $element) {
 
 }
 ```
+###bootstrap-table如何自适应手机端，求解答
 
 ### 我要如何支持 Bootstrap Table 的开发？
 
